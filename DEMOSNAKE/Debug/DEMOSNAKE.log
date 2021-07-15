@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Rhea\source\repos\DEMOSNAKE\DEMOSNAKE\main.cpp(305,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\DEMOSNAKE\DEMOSNAKE\main.cpp(310,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\DEMOSNAKE\DEMOSNAKE\main.cpp(315,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\DEMOSNAKE\DEMOSNAKE\main.cpp(323,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rhea\source\repos\DEMOSNAKE\DEMOSNAKE\main.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+  DEMOSNAKE.vcxproj -> C:\Users\Rhea\source\repos\DEMOSNAKE\Debug\DEMOSNAKE.exe
